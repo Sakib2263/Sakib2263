@@ -50,8 +50,14 @@ education: BSc CSE, University of Dhaka
 ### 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakib2263&show_icons=true&hide_border=true&bg_color=14110F&title_color=FF6B3D&icon_color=7FD6C2&text_color=F3ECE4&rank_icon=github" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib2263&layout=compact&hide_border=true&bg_color=14110F&title_color=FF6B3D&text_color=F3ECE4" height="165" alt="Top languages">
+  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Contribution summary">
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats">
+  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per language">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sakib2263&background=14110F&border=2a2420&ring=FF6B3D&fire=FFA24A&currStreakLabel=FF6B3D&sideLabels=F3ECE4&currStreakNum=F3ECE4&sideNums=F3ECE4&dates=B8AC9F&stroke=2a2420" alt="Contribution streak">
 </p>
 
 <p align="center">
